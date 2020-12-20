@@ -1,3 +1,8 @@
+# hello
+# ll
+# compare he with ll
+# compare el with ll
+# compare ll with ll
 def strStr(haystack, needle):
     """
     :type haystack: str
