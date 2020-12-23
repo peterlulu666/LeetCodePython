@@ -1,3 +1,7 @@
+# split words
+# check if the last word is the empty string, if no, return the length
+# of yes, check the second last word
+# if you checked every word and every word is empty string, retirn 0
 def lengthOfLastWord(s):
     """
     :type s: str
